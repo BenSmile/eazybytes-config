@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hey, welcome to Ben Bank accounts related webhook APIs"
+  message: "Hey, welcome to Ben Bank accounts services related webhook APIs"
   contactDetails:
     name: "{cipher}51e5627227b336fddedb1a2762eeb88c910d7cd77175fc213c6f4d1212862a4d5ad786c5ee5b72ce4286ebeb0d242ecf"
     email: "{cipher}2af3bfb3541d5788debfcf9547a0484ce82f6f9c036d853b2f7e31bf8163a8025d4acd18b152c2a78bf676db375c3753"
